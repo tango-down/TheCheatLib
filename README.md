@@ -10,6 +10,7 @@
 
 ```bash
 npm install
+ts-node example.ts
 ```
 
 ---
